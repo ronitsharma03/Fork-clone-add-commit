@@ -131,6 +131,6 @@ Feel free to contribute to this project also by creating new tasks for other con
 For any queries, feel free to open an issue or reach out to me at btwitsronit@gmail.com.
 
 
-<tr><td align="center"><a href="https://github.com/ronitsharma03"><img src="https://avatars.githubusercontent.com/u/94978319?v=4" alt="Image not found" ><br /><sub><b>Ronit Khajuria</b></sub></a><br /></td>
+<tr><td align="center"><a href="https://github.com/ronitsharma03"><img src="https://avatars.githubusercontent.com/u/94978319?v=4" alt="Image not found" width="120px" ><br /><sub><b>Ronit Khajuria</b></sub></a><br /></td>
 
 </tr>
