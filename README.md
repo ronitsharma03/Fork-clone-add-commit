@@ -1,7 +1,5 @@
 # Fork-clone-add-commit
 
-# Fork-clone-add-commit
-
 <div align="center">
 
 ![Fork, Commit, Merge]
